@@ -15,7 +15,7 @@ Clone the project in Android Studio following these steps:
 Open your terminal, navigate to your working directory, use `git clone` to get a copy of the repo.
 
 ```
-$ git clone https://github.com/matoleot/ChronoApp
+$ git clone https://github.com/matoleot/ChronoApp.git
 ```
 
 ### Goals
