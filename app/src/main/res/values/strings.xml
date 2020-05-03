@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChronoApp</string>
+    <!-- MainActivity-->
+    <string name="activity_main_button_start">Start</string>
+    <string name="activity_main_button_stop">Stop</string>
+    <string name="activity_main_toast_start_timer">Timer started</string>
+    <string name="activity_main_toast_stop_timer">Timer stopped</string>
+    <string name="activity_main_toast_finish_timer">Timer finished</string>
+    <string name="activity_main_toast_hacking_timer">You have changed the boolean value :)</string>
+</resources>
