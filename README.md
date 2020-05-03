@@ -1,5 +1,3 @@
-[![N|Solid](http://www.uoc.edu/portal/_resources/common/imatges/marca_UOC/UOC_Masterbrand_3linies.jpg)](http://www.uoc.edu/portal/ca/index.html)
-
 # Debugging Android Tools
 
 ### Description
@@ -17,7 +15,7 @@ Clone the project in Android Studio following these steps:
 Open your terminal, navigate to your working directory, use `git clone` to get a copy of the repo.
 
 ```
-$ git clone https://eimtgit.uoc.edu/docente_android/android1-pec2-chronometer.git
+$ git clone https://github.com/matoleot/ChronoApp
 ```
 
 ### Goals
