@@ -1,7 +1,7 @@
 # Debugging Android Tools
 
 ### Description
-This project is to learn the debugging tools of Android Studio. All the instructions are in the activity. 
+This project is to learn the debugging tools of Android Studio.
 
 ### Getting Started:
 ##### Android Studio
