@@ -79,9 +79,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // paragraph of exercise 1.
         boolean valueToBeModifiedUsingWatches = false;
         if (!valueToBeModifiedUsingWatches) {
-            Toast.makeText(this, R.string.activity_main_toast_start_timer, Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, R.string.activity_main_toast_start_timer, Toast.LENGTH_LONG).show();
         } else {
-            Toast.makeText(this, R.string.activity_main_toast_hacking_timer, Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, R.string.activity_main_toast_hacking_timer, Toast.LENGTH_LONG).show();
         }
 
         countDownTimer = new CountDownTimer(MAX_TIME_TO_COUNT_IN_MILLIS, 10) {
@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             // callback fired when the time is up.
             public void onFinish() {
-                Toast.makeText(getApplicationContext(), R.string.activity_main_toast_finish_timer, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), R.string.activity_main_toast_finish_timer, Toast.LENGTH_LONG).show();
                 setViewsDependingTheState(false);
                 countDownTimer = null;
             }
